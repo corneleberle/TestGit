@@ -7,4 +7,5 @@ neues feature:
 	-the fourth feature
 
 neu:
-	feature 1 geändert
+	-feature 1 geändert
+	-auch feature 2 geändert
