@@ -5,3 +5,6 @@ neues feature:
 	-mein zweites feature
 	-mein drittest feature
 	-the fourth feature
+
+neu:
+	-auch feature 2 geändert
